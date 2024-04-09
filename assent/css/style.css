@@ -191,12 +191,6 @@ h1 {
   text-align: center;
 }
 
-.button {
-    background-color: #47173b;
-
-}
-
-
 .footer {
   display: flex;
   flex-direction: column;
